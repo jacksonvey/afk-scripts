@@ -1,6 +1,6 @@
-## AFK Scripts
+# AFK Scripts
 
-# melee.py
+### melee.py
 
 This script is for use in Ashes of the Damned Directed or automated melee in general.
 
