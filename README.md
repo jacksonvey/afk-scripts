@@ -11,7 +11,7 @@ Loadout:
 
 Important items are toxic growth and your melee weapon of choice.
 
-Helpful Augments:
+Helpful Augments:  
 <img width="484" height="520" alt="image" src="https://github.com/user-attachments/assets/8e10bf92-b178-452c-afb8-5a04b33f33e8" />
 
 <img width="486" height="516" alt="image" src="https://github.com/user-attachments/assets/4a6415c9-bc1a-4a4d-95c9-20a35b7232c7" />
