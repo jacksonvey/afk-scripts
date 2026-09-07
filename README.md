@@ -18,3 +18,14 @@ Important items are toxic growth and your melee weapon of choice.
 <img width="484" height="529" alt="image" src="https://github.com/user-attachments/assets/6268ac5a-f0b7-49bc-9a53-9177f2bc8b62" />  
 <img width="491" height="526" alt="image" src="https://github.com/user-attachments/assets/b8bbb219-22a5-41f8-82e0-895fe67ffe36" />
 <img width="489" height="529" alt="image" src="https://github.com/user-attachments/assets/3957faae-c912-49de-aadd-596ee2d0b65e" />
+
+## Perks needed in order of importance:
+1. Melee Macchiato
+2. Juggernog
+3. Quick Revive
+4. Vulture Aid
+5. Widow's Wine
+6. Elemental Pop
+7. Wisp Tea
+
+If buying more than 5 perks be sure to buy mule kick first with kick back as it will ultimately be cheaper.
