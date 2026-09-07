@@ -29,3 +29,10 @@ Important items are toxic growth and your melee weapon of choice.
 7. Wisp Tea
 
 If buying more than 5 perks be sure to buy mule kick first with kick back as it will ultimately be cheaper.
+
+## Toxic Growth:
+Use toxic growth on the plants in the starting room to get blue rarity/pap 1 on your melee weapon (unneccessary if using melee macchiato)
+
+## Where to sit:
+Crouch on this planter next to the vending machine as far back as you can.  
+<img width="1920" height="1080" alt="200E2A~1" src="https://github.com/user-attachments/assets/59a986db-61f1-476b-b3dd-f37a155fbc63" />
