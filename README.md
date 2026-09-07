@@ -6,12 +6,12 @@ This script is for use in Ashes of the Damned Directed or automated melee in gen
 
 Begin a match of Ashes of the Damned in directed mode.
 
-Loadout:
+## Loadout:  
 <img width="721" height="785" alt="image" src="https://github.com/user-attachments/assets/55509e1c-328a-4bc3-abfd-d8879d8a4b5f" />
 
 Important items are toxic growth and your melee weapon of choice.
 
-Helpful Augments:  
+## Helpful Augments:  
 <img width="484" height="520" alt="image" src="https://github.com/user-attachments/assets/8e10bf92-b178-452c-afb8-5a04b33f33e8" />
 <img width="486" height="516" alt="image" src="https://github.com/user-attachments/assets/4a6415c9-bc1a-4a4d-95c9-20a35b7232c7" />  
 <img width="493" height="533" alt="image" src="https://github.com/user-attachments/assets/461f036b-e908-455a-a1a7-8f9a42e5a91e" />
