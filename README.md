@@ -1,4 +1,4 @@
-### AFK Scripts
+## AFK Scripts
 
 # melee.py
 
